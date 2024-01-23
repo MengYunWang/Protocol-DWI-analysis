@@ -67,7 +67,7 @@ Zhang, H., Schneider, T., Wheeler-Kingshott, C. A., & Alexander, D. C. (2012). N
 
 Jeurissen, B., Descoteaux, M., Mori, S., & Leemans, A. (2019). Diffusion MRI fiber tractography of the brain. NMR in Biomedicine, 32(4), e3785.
 
-Mori, S., & Van Zijl, P. C. (2002). Fiber tracking: principles and strategies–a technical review. NMR in Biomedicine: An International Journal Devoted to the Development and Application of Magnetic Resonance In Vivo, 15(7‐8), 468-480.
+Mori, S., & Van Zijl, P. C. (2002). Fiber tracking: principles and strategies–a technical review. NMR in Biomedicine, 15(7‐8), 468-480.
 
 ### Major tracts
 
@@ -75,6 +75,11 @@ Bullock, D. N., Hayday, E. A., Grier, M. D., Tang, W., Pestilli, F., & Heilbronn
 
 
 ### Methods
+Sarwar, T., Ramamohanarao, K., & Zalesky, A. (2019). Mapping connectomes with diffusion MRI: deterministic or probabilistic tractography? Magnetic resonance in medicine, 81(2), 1368-1384.
+
+Maier-Hein, K. H., Neher, P. F., Houde, J. C., Côté, M. A., Garyfallidis, E., Zhong, J., ... & Descoteaux, M. (2017). The challenge of mapping the human connectome based on diffusion tractography. Nature communications, 8(1), 1349.
+
+Bastiani, M., Shah, N. J., Goebel, R., & Roebroeck, A. (2012). Human cortical connectome reconstruction from diffusion weighted MRI: the effect of tractography algorithm. Neuroimage, 62(3), 1732-1749.
 
 Tournier, J. D., Calamante, F., & Connelly, A. (2007). Robust determination of the fibre orientation distribution in diffusion MRI: non-negativity constrained super-resolved spherical deconvolution. Neuroimage, 35(4), 1459-1472.
 
@@ -93,6 +98,12 @@ Sherbondy, A. J., Dougherty, R. F., Ben-Shachar, M., Napel, S., & Wandell, B. A.
 Behrens, T. E., Berg, H. J., Jbabdi, S., Rushworth, M. F., & Woolrich, M. W. (2007). Probabilistic diffusion tractography with multiple fiber orientations: What can we gain? Neuroimage, 34(1), 144-155.
 
 Parker, G. J., Haroon, H. A., & Wheeler‐Kingshott, C. A. (2003). A framework for a streamline‐based probabilistic index of connectivity (PICo) using a structural interpretation of MRI diffusion measurements. Journal of Magnetic Resonance Imaging, 18(2), 242-254.
+
+- Others
+
+Jbabdi, S., Woolrich, M. W., Andersson, J. L., & Behrens, T. E. J. (2007). A Bayesian framework for global tractography. Neuroimage, 37(1), 116-129.
+
+Iturria-Medina, Y., Canales-Rodríguez, E. J., Melie-García, L., Valdés-Hernández, P. A., Martínez-Montes, E., Alemán-Gómez, Y., & Sánchez-Bornot, J. M. (2007). Characterizing brain anatomical connections using diffusion weighted MRI and graph theory. Neuroimage, 36(3), 645-660.
 
 ## Softwares
 
