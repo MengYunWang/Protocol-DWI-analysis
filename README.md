@@ -26,8 +26,9 @@ Soares, J. M., Marques, P., Alves, V., & Sousa, N. (2013). A hitchhiker's guide 
 
 Pierpaoli, C., & Basser, P. J. (1996). Toward a quantitative assessment of diffusion anisotropy. Magnetic Resonance in Medicine, 36(6), 893-906.
 
-Basser, P. J., Mattiello, J., & LeBihan, D. (1994). MR diffusion tensor spectroscopy and imaging. Biophysical journal, 66(1), 259-267.
 Basser, P. J., Mattiello, J., & LeBihan, D. (1994). Estimation of the effective self-diffusion tensor from the NMR spin echo. Journal of Magnetic Resonance, Series B, 103(3), 247-254.
+
+Basser, P. J., Mattiello, J., & LeBihan, D. (1994). MR diffusion tensor spectroscopy and imaging. Biophysical journal, 66(1), 259-267.
 
 #### Model-free (diffusion Orientation distribution function) 
 
@@ -48,9 +49,11 @@ Behrens, T. E., Woolrich, M. W., Jenkinson, M., Johansen‐Berg, H., Nunes, R. G
 
 ##### CHARMED
 Assaf, Y., & Basser, P. J. (2005). Composite hindered and restricted model of diffusion (CHARMED) MR imaging of the human brain. Neuroimage, 27(1), 48-58.
-Assaf, Y., Freidlin, R. Z., Rohde, G. K., & Basser, P. J. (2004). New modeling and experimental framework to characterize hindered and restricted water diffusion in brain white matter. Magnetic Resonance in Medicine: An Official Journal of the International Society for Magnetic Resonance in Medicine, 52(5), 965-978.
+
+Assaf, Y., Freidlin, R. Z., Rohde, G. K., & Basser, P. J. (2004). New modeling and experimental framework to characterize hindered and restricted water diffusion in brain white matter. Magnetic Resonance in Medicine, 52(5), 965-978.
+
 ##### AxCaliber
-Assaf, Y., Blumenfeld‐Katzir, T., Yovel, Y., & Basser, P. J. (2008). AxCaliber: a method for measuring axon diameter distribution from diffusion MRI. Magnetic Resonance in Medicine: An Official Journal of the International Society for Magnetic Resonance in Medicine, 59(6), 1347-1354.
+Assaf, Y., Blumenfeld‐Katzir, T., Yovel, Y., & Basser, P. J. (2008). AxCaliber: a method for measuring axon diameter distribution from diffusion MRI. Magnetic Resonance in Medicine, 59(6), 1347-1354.
 
 **Spherical Deconvolution**
 
@@ -89,7 +92,7 @@ Basser, P. J., Pajevic, S., Pierpaoli, C., Duda, J., & Aldroubi, A. (2000). In v
 
 Conturo, T. E., Lori, N. F., Cull, T. S., Akbudak, E., Snyder, A. Z., Shimony, J. S., ... & Raichle, M. E. (1999). Tracking neuronal fiber pathways in the living human brain. Proceedings of the National Academy of Sciences, 96(18), 10422-10427.
 
-Mori, S., Crain, B. J., Chacko, V. P., & Van Zijl, P. C. (1999). Three‐dimensional tracking of axonal projections in the brain by magnetic resonance imaging. Annals of Neurology: Official Journal of the American Neurological Association and the Child Neurology Society, 45(2), 265-269.
+Mori, S., Crain, B. J., Chacko, V. P., & Van Zijl, P. C. (1999). Three‐dimensional tracking of axonal projections in the brain by magnetic resonance imaging. Annals of Neurology, 45(2), 265-269.
 
 - Probabilistic
 
