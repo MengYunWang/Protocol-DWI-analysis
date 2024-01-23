@@ -54,9 +54,9 @@ Assaf, Y., Blumenfeld‐Katzir, T., Yovel, Y., & Basser, P. J. (2008). AxCaliber
 
 **Spherical Deconvolution**
 
-Tournier, J. D., Calamante, F., Gadian, D. G., & Connelly, A. (2004). Direct estimation of the fiber orientation density function from diffusion-weighted MRI data using spherical deconvolution. Neuroimage, 23(3), 1176-1185.
-
 Dell'Acqua, F., & Tournier, J. D. (2019). Modelling white matter with spherical deconvolution: How and why?. NMR in Biomedicine, 32(4), e3945.
+
+Tournier, J. D., Calamante, F., Gadian, D. G., & Connelly, A. (2004). Direct estimation of the fiber orientation density function from diffusion-weighted MRI data using spherical deconvolution. Neuroimage, 23(3), 1176-1185.
 
 **NODDI**
 
@@ -69,16 +69,16 @@ Jeurissen, B., Descoteaux, M., Mori, S., & Leemans, A. (2019). Diffusion MRI fib
 
 Mori, S., & Van Zijl, P. C. (2002). Fiber tracking: principles and strategies–a technical review. NMR in Biomedicine: An International Journal Devoted to the Development and Application of Magnetic Resonance In Vivo, 15(7‐8), 468-480.
 
-Major tracts
+### Major tracts
 
 Bullock, D. N., Hayday, E. A., Grier, M. D., Tang, W., Pestilli, F., & Heilbronner, S. R. (2022). A taxonomy of the brain’s white matter: twenty-one major tracts for the 21st century. Cerebral Cortex, 32(20), 4524-4548.
 
 
-Methods
+### Methods
 
 Tournier, J. D., Calamante, F., & Connelly, A. (2007). Robust determination of the fibre orientation distribution in diffusion MRI: non-negativity constrained super-resolved spherical deconvolution. Neuroimage, 35(4), 1459-1472.
 
-Deterministic 
+- Deterministic  
 
 Basser, P. J., Pajevic, S., Pierpaoli, C., Duda, J., & Aldroubi, A. (2000). In vivo fiber tractography using DT‐MRI data. Magnetic resonance in medicine, 44(4), 625-632.
 
@@ -86,22 +86,22 @@ Conturo, T. E., Lori, N. F., Cull, T. S., Akbudak, E., Snyder, A. Z., Shimony, J
 
 Mori, S., Crain, B. J., Chacko, V. P., & Van Zijl, P. C. (1999). Three‐dimensional tracking of axonal projections in the brain by magnetic resonance imaging. Annals of Neurology: Official Journal of the American Neurological Association and the Child Neurology Society, 45(2), 265-269.
 
-Probabilistic
+- Probabilistic
 
-Sherbondy, A. J., Dougherty, R. F., Ben-Shachar, M., Napel, S., & Wandell, B. A. (2008). ConTrack: finding the most likely pathways between brain regions using diffusion tractography. Journal of vision, 8(9), 15-15.
+Sherbondy, A. J., Dougherty, R. F., Ben-Shachar, M., Napel, S., & Wandell, B. A. (2008). ConTrack: finding the most likely pathways between brain regions using diffusion tractography. Journal of Vision, 8(9), 15-15.
 
-Behrens, T. E., Berg, H. J., Jbabdi, S., Rushworth, M. F., & Woolrich, M. W. (2007). Probabilistic diffusion tractography with multiple fibre orientations: What can we gain?. neuroimage, 34(1), 144-155.
+Behrens, T. E., Berg, H. J., Jbabdi, S., Rushworth, M. F., & Woolrich, M. W. (2007). Probabilistic diffusion tractography with multiple fiber orientations: What can we gain? Neuroimage, 34(1), 144-155.
 
 Parker, G. J., Haroon, H. A., & Wheeler‐Kingshott, C. A. (2003). A framework for a streamline‐based probabilistic index of connectivity (PICo) using a structural interpretation of MRI diffusion measurements. Journal of Magnetic Resonance Imaging, 18(2), 242-254.
 
-Softwares
+## Softwares
 
-Cieslak, M., Cook, P. A., He, X., Yeh, F. C., Dhollander, T., Adebimpe, A., ... & Satterthwaite, T. D. (2021). QSIPrep: an integrative platform for preprocessing and reconstructing diffusion MRI data. Nature methods, 18(7), 775-778.
+Cieslak, M., Cook, P. A., He, X., Yeh, F. C., Dhollander, T., Adebimpe, A., ... & Satterthwaite, T. D. (2021). ***QSIPrep***: an integrative platform for preprocessing and reconstructing diffusion MRI data. Nature Methods, 18(7), 775-778.
 
-Warrington, S., Bryant, K. L., Khrapitchev, A. A., Sallet, J., Charquero-Ballester, M., Douaud, G., ... & Sotiropoulos, S. N. (2020). XTRACT-Standardised protocols for automated tractography in the human and macaque brain. Neuroimage, 217, 116923.
+Warrington, S., Bryant, K. L., Khrapitchev, A. A., Sallet, J., Charquero-Ballester, M., Douaud, G., ... & Sotiropoulos, S. N. (2020). ***FSL*** XTRACT-Standardised protocols for automated tractography in the human and macaque brain. Neuroimage, 217, 116923.
 
-Tournier, J. D., Smith, R., Raffelt, D., Tabbara, R., Dhollander, T., Pietsch, M., ... & Connelly, A. (2019). MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation. Neuroimage, 202, 116137.
+Tournier, J. D., Smith, R., Raffelt, D., Tabbara, R., Dhollander, T., Pietsch, M., ... & Connelly, A. (2019). ***MRtrix3***: A fast, flexible and open software framework for medical image processing and visualisation. Neuroimage, 202, 116137.
 
-Garyfallidis, E., Brett, M., Amirbekian, B., Rokem, A., Van Der Walt, S., Descoteaux, M., ... & Dipy Contributors. (2014). Dipy, a library for the analysis of diffusion MRI data. Frontiers in neuroinformatics, 8, 8.
+Garyfallidis, E., Brett, M., Amirbekian, B., Rokem, A., Van Der Walt, S., Descoteaux, M., ... & Dipy Contributors. (2014). ***Dipy***, a library for the analysis of diffusion MRI data. Frontiers in neuroinformatics, 8, 8.
 
-Yeh, F. C., Wedeen, V. J., & Tseng, W. Y. I. (2010). Generalized q-sampling imaging. IEEE transactions on medical imaging, 29(9), 1626
+Yeh, F. C., Wedeen, V. J., & Tseng, W. Y. I. (2010). ***DSI studio*** Generalized q-sampling imaging. IEEE Transactions on Medical Imaging, 29(9), 1626
