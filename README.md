@@ -70,6 +70,7 @@ Jeurissen, B., Descoteaux, M., Mori, S., & Leemans, A. (2019). Diffusion MRI fib
 Mori, S., & Van Zijl, P. C. (2002). Fiber tracking: principles and strategies–a technical review. NMR in Biomedicine: An International Journal Devoted to the Development and Application of Magnetic Resonance In Vivo, 15(7‐8), 468-480.
 
 Major tracts
+
 Bullock, D. N., Hayday, E. A., Grier, M. D., Tang, W., Pestilli, F., & Heilbronner, S. R. (2022). A taxonomy of the brain’s white matter: twenty-one major tracts for the 21st century. Cerebral Cortex, 32(20), 4524-4548.
 
 
@@ -86,14 +87,21 @@ Conturo, T. E., Lori, N. F., Cull, T. S., Akbudak, E., Snyder, A. Z., Shimony, J
 Mori, S., Crain, B. J., Chacko, V. P., & Van Zijl, P. C. (1999). Three‐dimensional tracking of axonal projections in the brain by magnetic resonance imaging. Annals of Neurology: Official Journal of the American Neurological Association and the Child Neurology Society, 45(2), 265-269.
 
 Probabilistic
+
 Sherbondy, A. J., Dougherty, R. F., Ben-Shachar, M., Napel, S., & Wandell, B. A. (2008). ConTrack: finding the most likely pathways between brain regions using diffusion tractography. Journal of vision, 8(9), 15-15.
+
 Behrens, T. E., Berg, H. J., Jbabdi, S., Rushworth, M. F., & Woolrich, M. W. (2007). Probabilistic diffusion tractography with multiple fibre orientations: What can we gain?. neuroimage, 34(1), 144-155.
-Parker, G. J., Haroon, H. A., & Wheeler‐Kingshott, C. A. (2003). A framework for a streamline‐based probabilistic index of connectivity (PICo) using a structural interpretation of MRI diffusion measurements. Journal of Magnetic Resonance Imaging: An Official Journal of the International Society for Magnetic Resonance in Medicine, 18(2), 242-254.
+
+Parker, G. J., Haroon, H. A., & Wheeler‐Kingshott, C. A. (2003). A framework for a streamline‐based probabilistic index of connectivity (PICo) using a structural interpretation of MRI diffusion measurements. Journal of Magnetic Resonance Imaging, 18(2), 242-254.
 
 Softwares
 
 Cieslak, M., Cook, P. A., He, X., Yeh, F. C., Dhollander, T., Adebimpe, A., ... & Satterthwaite, T. D. (2021). QSIPrep: an integrative platform for preprocessing and reconstructing diffusion MRI data. Nature methods, 18(7), 775-778.
+
 Warrington, S., Bryant, K. L., Khrapitchev, A. A., Sallet, J., Charquero-Ballester, M., Douaud, G., ... & Sotiropoulos, S. N. (2020). XTRACT-Standardised protocols for automated tractography in the human and macaque brain. Neuroimage, 217, 116923.
+
 Tournier, J. D., Smith, R., Raffelt, D., Tabbara, R., Dhollander, T., Pietsch, M., ... & Connelly, A. (2019). MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation. Neuroimage, 202, 116137.
+
 Garyfallidis, E., Brett, M., Amirbekian, B., Rokem, A., Van Der Walt, S., Descoteaux, M., ... & Dipy Contributors. (2014). Dipy, a library for the analysis of diffusion MRI data. Frontiers in neuroinformatics, 8, 8.
+
 Yeh, F. C., Wedeen, V. J., & Tseng, W. Y. I. (2010). Generalized q-sampling imaging. IEEE transactions on medical imaging, 29(9), 1626
