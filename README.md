@@ -13,11 +13,17 @@ Le Bihan, D., & Breton, E. (1985). Imagerie de diffusion in vivo par résonance 
 ## 2. Local Properties
 
 ### (1) Indices
+
 FA
+
 MD
+
 RD
+
 AD
+
 ADC
+
 Diameter Density
 
 ### (2) Models
@@ -36,14 +42,14 @@ Basser, P. J., Mattiello, J., & LeBihan, D. (1994). MR diffusion tensor spectros
 
 - ### Model-free (diffusion Orientation distribution function) 
 
-#### QBI (Q-Ball Imaging)
-Tuch, D. S. (2004). Q‐ball imaging. Magnetic Resonance in Medicine: An Official Journal of the International Society for Magnetic Resonance in Medicine, 52(6), 1358-1372.
-
 #### DSI (Diffusion Spectrum Imaging)
 Wedeen, V. J., Hagmann, P., Tseng, W. Y. I., Reese, T. G., & Weisskoff, R. M. (2005). Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. Magnetic resonance in medicine, 54(6), 1377-1386.
 
 #### DKI (Diffusion Kurtosis Imaging)
 Jensen, J. H., Helpern, J. A., Ramani, A., Lu, H., & Kaczynski, K. (2005). Diffusional kurtosis imaging: the quantification of non‐gaussian water diffusion by means of magnetic resonance imaging. Magnetic Resonance in Medicine, 53(6), 1432-1440.
+
+#### QBI (Q-Ball Imaging)
+Tuch, D. S. (2004). Q‐ball imaging. Magnetic Resonance in Medicine: An Official Journal of the International Society for Magnetic Resonance in Medicine, 52(6), 1358-1372.
 
  - ### Model-based (fiber ODF compartment models)
 
