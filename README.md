@@ -14,17 +14,17 @@ Le Bihan, D., & Breton, E. (1985). Imagerie de diffusion in vivo par résonance 
 
 ### (1) Indices
 
-FA
+**Fractional Anisotropy (FA)**: is a measure of the degree of anisotropy, or directional dependence, of a diffusion process in a biological tissue. Range > [0,1]: A value of 0 indicates completely isotropic diffusion, while a value of 1 indicates completely anisotropic diffusion, where the diffusion is restricted to a single direction. 
 
-MD
+**Axial Diffusivity (AD)**: is a measure of the rate at which water molecules diffuse along the primary diffusion direction in a tissue. symbol > “λ₁”; unit > (mm²/s). 
 
-RD
+**Radial Diffusivity (RD)**: is the eigenvalue of the diffusion tensor perpendicular to the primary diffusion direction in a tissue, which reflects the degree to which diffusion is unrestricted in the tissue perpendicular to the primary diffusion direction. symbol > “λ₂”; unit > square millimeters per second (mm²/s). 
 
-AD
+**Mean Diffusivity (MD)**: is the average of the three eigenvalues of the diffusion tensor, which represents the degree of diffusional restriction in three orthogonal directions in a tissue. symbol > “λ̄”; unit > square millimeters per second (mm²/s). 
 
-ADC
+**Orientation Dispersion (OD)**: 
 
-Diameter Density
+**Neurite Density (intra- volume fraction)**:
 
 ### (2) Models
 
@@ -34,9 +34,11 @@ Tournier, J. D., Mori, S., & Leemans, A. (2011). Diffusion tensor imaging and be
    
 Soares, J. M., Marques, P., Alves, V., & Sousa, N. (2013). A hitchhiker's guide to diffusion tensor imaging. Frontiers in neuroscience, 7, 31.
 
-Pierpaoli, C., & Basser, P. J. (1996). Toward a quantitative assessment of diffusion anisotropy. Magnetic Resonance in Medicine, 36(6), 893-906.
+[Pierpaoli, C., & Basser, P. J. (1996). Toward a quantitative assessment of diffusion anisotropy. Magnetic Resonance in Medicine, 36(6), 893-906.]
 
-Basser, P. J., Mattiello, J., & LeBihan, D. (1994). Estimation of the effective self-diffusion tensor from the NMR spin echo. Journal of Magnetic Resonance, Series B, 103(3), 247-254. (FA proposed)
+Basser, P. J., & Pierpaoli, C. (1996). Microstructural and physiological features of tissues elucidated by quantitative-diffusion-tensor MRI. Journal of magnetic resonance. Series B, 111(3), 209-219. (FA proposed)
+
+[Basser, P. J., Mattiello, J., & LeBihan, D. (1994). Estimation of the effective self-diffusion tensor from the NMR spin echo. Journal of Magnetic Resonance, Series B, 103(3), 247-254.]
 
 Basser, P. J., Mattiello, J., & LeBihan, D. (1994). MR diffusion tensor spectroscopy and imaging. Biophysical journal, 66(1), 259-267.
 
