@@ -10,21 +10,34 @@ Le Bihan, D., & Johansen-Berg, H. (2012). Diffusion MRI at 25: exploring brain t
 Le Bihan, D. (2003). Looking into the functional architecture of the brain with diffusion MRI. Nature Reviews Neuroscience, 4(6), 469-480.
 
 Le Bihan, D., & Breton, E. (1985). Imagerie de diffusion in vivo par résonance magnétique nucléaire. Comptes rendus de l'Académie des sciences. Série 2, Mécanique, Physique, Chimie, Sciences de l'univers, Sciences de la Terre, 301(15), 1109-1112.
-## 2. Local Properties
+
+## 2. Voxel-wise Properties
 
 ### (1) Indices
 
-**Fractional Anisotropy (FA)**: is a measure of the degree of anisotropy, or directional dependence, of a diffusion process in a biological tissue. Range > [0,1]: A value of 0 indicates completely isotropic diffusion, while a value of 1 indicates completely anisotropic diffusion, where the diffusion is restricted to a single direction. 
+**Fractional Anisotropy (FA)**: (mm²/s)
 
-**Axial Diffusivity (AD)**: is a measure of the rate at which water molecules diffuse along the primary diffusion direction in a tissue. symbol > “λ₁”; unit > (mm²/s). 
+is a measure of the degree of anisotropy, or directional dependence, of a diffusion process in a biological tissue. 0 indicates completely isotropic diffusion while 1 indicates completely anisotropic diffusion, of which the white matter should have ***larger*** FA than the grey matter.
 
-**Radial Diffusivity (RD)**: is the eigenvalue of the diffusion tensor perpendicular to the primary diffusion direction in a tissue, which reflects the degree to which diffusion is unrestricted in the tissue perpendicular to the primary diffusion direction. symbol > “λ₂”; unit > square millimeters per second (mm²/s). 
+**Axial Diffusivity (AD)**: “λ₁”; (mm²/s)
 
-**Mean Diffusivity (MD)**: is the average of the three eigenvalues of the diffusion tensor, which represents the degree of diffusional restriction in three orthogonal directions in a tissue. symbol > “λ̄”; unit > square millimeters per second (mm²/s). 
+is the eigenvalue of the primary diffusion direction derived from DTI in a tissue, which measures the rate at which water molecules diffuse along the primary diffusion direction in a tissue. 
+
+**Radial Diffusivity (RD)**: “λ₂”; (mm²/s)
+
+is the eigenvalue of the perpendicular directions to the primary diffusion direction derived from DTI in a tissue, which reflects the degree to which diffusion is unrestricted in the tissue perpendicular to the primary diffusion direction. 
+
+**Mean Diffusivity (MD)**: “λ̄”; (mm²/s)
+
+is the average of the three eigenvalues derived from DTI, which represents the degree of diffusional restriction in three orthogonal directions in a tissue.  
 
 **Orientation Dispersion (OD)**: 
 
-**Neurite Density (intra- volume fraction)**:
+is a measure of neurite orientation dispersion. 0 means more coherent with no dispersion while 1 means more dispersion. The white matter should have ***smaller*** values than the grey matter.
+
+**Intra-Cellular Volume Fraction (ICVF)**:
+
+is a measure of neurite density. 0 means no neurite while 1 means dense neurite. The white matter should have ***larger*** values than the grey matter.
 
 ### (2) Models
 
@@ -115,9 +128,9 @@ Iturria-Medina, Y., Canales-Rodríguez, E. J., Melie-García, L., Valdés-Herná
 
 ## 4. Softwares
 
-Cieslak, M., Cook, P. A., He, X., Yeh, F. C., Dhollander, T., Adebimpe, A., ... & Satterthwaite, T. D. (2021). ***QSIPrep***: an integrative platform for preprocessing and reconstructing diffusion MRI data. Nature Methods, 18(7), 775-778.
+Smith, S. M., Jenkinson, M., Woolrich, M. W., Beckmann, C. F., Behrens, T. E., Johansen-Berg, H., ... & Matthews, P. M. (2004). Advances in functional and structural MR image analysis and implementation as ***FSL***. Neuroimage, 23, S208-S219.
 
-Warrington, S., Bryant, K. L., Khrapitchev, A. A., Sallet, J., Charquero-Ballester, M., Douaud, G., ... & Sotiropoulos, S. N. (2020). ***FSL*** XTRACT-Standardised protocols for automated tractography in the human and macaque brain. Neuroimage, 217, 116923.
+Cieslak, M., Cook, P. A., He, X., Yeh, F. C., Dhollander, T., Adebimpe, A., ... & Satterthwaite, T. D. (2021). ***QSIPrep***: an integrative platform for preprocessing and reconstructing diffusion MRI data. Nature Methods, 18(7), 775-778.
 
 Tournier, J. D., Smith, R., Raffelt, D., Tabbara, R., Dhollander, T., Pietsch, M., ... & Connelly, A. (2019). ***MRtrix3***: A fast, flexible and open software framework for medical image processing and visualisation. Neuroimage, 202, 116137.
 
