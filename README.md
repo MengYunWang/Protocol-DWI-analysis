@@ -98,6 +98,24 @@ Mori, S., & Van Zijl, P. C. (2002). Fiber tracking: principles and strategies–
 
 Bullock, D. N., Hayday, E. A., Grier, M. D., Tang, W., Pestilli, F., & Heilbronner, S. R. (2022). A taxonomy of the brain’s white matter: twenty-one major tracts for the 21st century. Cerebral Cortex, 32(20), 4524-4548.
 
+Yeh, F. C. (2022). Population-based tract-to-region connectome of the human brain and its hierarchical topology. Nature communications, 13(1), 4933.
+
+- ### Commissural pathways:
+  #### corpus callosum
+  #### anterior commissure
+  #### posterior commissure
+- ### Association pathways:
+  #### arcuate fasciculus (AF)
+  #### uncinate fasciculus (UF)
+  #### cingulum
+  #### inferior fronto-occipital fasciculus (IFOF)
+  #### inferior longitudinal fasciculus (ILF); middle longitudinal fasciculus (MdLF); superior longitudinal fasciculus (SLF)
+- ### Projection pathways:
+  #### optic radiation
+  #### corticospinal tract
+  #### fornix
+- ### Cerebellum pathways
+
 ### (2) Methods
 Sarwar, T., Ramamohanarao, K., & Zalesky, A. (2019). Mapping connectomes with diffusion MRI: deterministic or probabilistic tractography? Magnetic resonance in medicine, 81(2), 1368-1384.
 
