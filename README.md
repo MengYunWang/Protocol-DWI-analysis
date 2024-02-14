@@ -64,7 +64,7 @@ Wedeen, V. J., Hagmann, P., Tseng, W. Y. I., Reese, T. G., & Weisskoff, R. M. (2
 Jensen, J. H., Helpern, J. A., Ramani, A., Lu, H., & Kaczynski, K. (2005). Diffusional kurtosis imaging: the quantification of non‐gaussian water diffusion by means of magnetic resonance imaging. Magnetic Resonance in Medicine, 53(6), 1432-1440.
 
 #### QBI (Q-Ball Imaging)
-Tuch, D. S. (2004). Q‐ball imaging. Magnetic Resonance in Medicine: An Official Journal of the International Society for Magnetic Resonance in Medicine, 52(6), 1358-1372.
+Tuch, D. S. (2004). Q‐ball imaging. Magnetic Resonance in Medicine, 52(6), 1358-1372.
 
  - ### Model-based (fiber ODF compartment models)
 
