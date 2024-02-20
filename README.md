@@ -43,7 +43,20 @@ is a measure of neurite density. 0 means no neurite while 1 means dense neurite.
 
 Tournier, J. D., Mori, S., & Leemans, A. (2011). Diffusion tensor imaging and beyond. Magnetic resonance in medicine, 65(6), 1532.
 
- - ### DTI (Diffusion Tensor Imaging)
+
+- ### Model-free (diffusion Orientation distribution function) 
+
+#### DSI (Diffusion Spectrum Imaging)
+Wedeen, V. J., Hagmann, P., Tseng, W. Y. I., Reese, T. G., & Weisskoff, R. M. (2005). Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. Magnetic resonance in medicine, 54(6), 1377-1386.
+
+
+
+#### QBI (Q-Ball Imaging)
+Tuch, D. S. (2004). Q‐ball imaging. Magnetic Resonance in Medicine, 52(6), 1358-1372.
+
+ - ### Model-based (fiber ODF compartment models)
+
+#### DTI (Diffusion Tensor Imaging)
    
 Soares, J. M., Marques, P., Alves, V., & Sousa, N. (2013). A hitchhiker's guide to diffusion tensor imaging. Frontiers in neuroscience, 7, 31.
 
@@ -55,18 +68,11 @@ Basser, P. J., & Pierpaoli, C. (1996). Microstructural and physiological feature
 
 Basser, P. J., Mattiello, J., & LeBihan, D. (1994). MR diffusion tensor spectroscopy and imaging. Biophysical journal, 66(1), 259-267.
 
-- ### Model-free (diffusion Orientation distribution function) 
-
-#### DSI (Diffusion Spectrum Imaging)
-Wedeen, V. J., Hagmann, P., Tseng, W. Y. I., Reese, T. G., & Weisskoff, R. M. (2005). Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. Magnetic resonance in medicine, 54(6), 1377-1386.
+#### NODDI
+Zhang, H., Schneider, T., Wheeler-Kingshott, C. A., & Alexander, D. C. (2012). NODDI: practical in vivo neurite orientation dispersion and density imaging of the human brain. Neuroimage, 61(4), 1000-1016.
 
 #### DKI (Diffusion Kurtosis Imaging)
 Jensen, J. H., Helpern, J. A., Ramani, A., Lu, H., & Kaczynski, K. (2005). Diffusional kurtosis imaging: the quantification of non‐gaussian water diffusion by means of magnetic resonance imaging. Magnetic Resonance in Medicine, 53(6), 1432-1440.
-
-#### QBI (Q-Ball Imaging)
-Tuch, D. S. (2004). Q‐ball imaging. Magnetic Resonance in Medicine, 52(6), 1358-1372.
-
- - ### Model-based (fiber ODF compartment models)
 
 #### Ball-stick
 Behrens, T. E., Woolrich, M. W., Jenkinson, M., Johansen‐Berg, H., Nunes, R. G., Clare, S., ... & Smith, S. M. (2003). Characterization and propagation of uncertainty in diffusion‐weighted MR imaging. Magnetic Resonance in Medicine, 50(5), 1077-1088.
@@ -79,13 +85,10 @@ Assaf, Y., Freidlin, R. Z., Rohde, G. K., & Basser, P. J. (2004). New modeling a
 ##### AxCaliber
 Assaf, Y., Blumenfeld‐Katzir, T., Yovel, Y., & Basser, P. J. (2008). AxCaliber: a method for measuring axon diameter distribution from diffusion MRI. Magnetic Resonance in Medicine, 59(6), 1347-1354.
 
-#### Spherical Deconvolution
+ - ### Spherical Deconvolution
 Dell'Acqua, F., & Tournier, J. D. (2019). Modelling white matter with spherical deconvolution: How and why?. NMR in Biomedicine, 32(4), e3945.
 
 Tournier, J. D., Calamante, F., Gadian, D. G., & Connelly, A. (2004). Direct estimation of the fiber orientation density function from diffusion-weighted MRI data using spherical deconvolution. Neuroimage, 23(3), 1176-1185.
-
-#### NODDI
-Zhang, H., Schneider, T., Wheeler-Kingshott, C. A., & Alexander, D. C. (2012). NODDI: practical in vivo neurite orientation dispersion and density imaging of the human brain. Neuroimage, 61(4), 1000-1016.
 
 
 ## 3. Fiber Tracking
