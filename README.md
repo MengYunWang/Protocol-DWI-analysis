@@ -52,6 +52,9 @@ Wedeen, V. J., Hagmann, P., Tseng, W. Y. I., Reese, T. G., & Weisskoff, R. M. (2
 #### QBI (Q-Ball Imaging)
 Tuch, D. S. (2004). Q‐ball imaging. Magnetic Resonance in Medicine, 52(6), 1358-1372.
 
+#### GQI
+Yeh, F. C., Wedeen, V. J., & Tseng, W. Y. I. (2010). Generalized q-sampling imaging. IEEE transactions on medical imaging, 29(9), 1626-1635.
+
  - ### Model-based (fiber ODF compartment models)
 
 #### DTI (Diffusion Tensor Imaging)
@@ -85,6 +88,12 @@ Assaf, Y., Blumenfeld‐Katzir, T., Yovel, Y., & Basser, P. J. (2008). AxCaliber
 
  - ### Spherical Deconvolution
 Dell'Acqua, F., & Tournier, J. D. (2019). Modelling white matter with spherical deconvolution: How and why?. NMR in Biomedicine, 32(4), e3945.
+
+#### MSMT-CSD (Multi-Shell, Multi-Tissue CSD)
+Jeurissen, B., Tournier, J. D., Dhollander, T., Connelly, A., & Sijbers, J. (2014). Multi-tissue constrained spherical deconvolution for improved analysis of multi-shell diffusion MRI data. NeuroImage, 103, 411-426.
+
+#### CSD (Constrained Spherical Deconvolution)
+Tournier, J. D., Calamante, F., & Connelly, A. (2007). Robust determination of the fibre orientation distribution in diffusion MRI: non-negativity constrained super-resolved spherical deconvolution. Neuroimage, 35(4), 1459-1472.
 
 Tournier, J. D., Calamante, F., Gadian, D. G., & Connelly, A. (2004). Direct estimation of the fiber orientation density function from diffusion-weighted MRI data using spherical deconvolution. Neuroimage, 23(3), 1176-1185.
 
