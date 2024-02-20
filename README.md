@@ -72,7 +72,7 @@ Basser, P. J., Mattiello, J., & LeBihan, D. (1994). MR diffusion tensor spectros
 #### DKI (Diffusion Kurtosis Imaging)
 Jensen, J. H., Helpern, J. A., Ramani, A., Lu, H., & Kaczynski, K. (2005). Diffusional kurtosis imaging: the quantification of non‐gaussian water diffusion by means of magnetic resonance imaging. Magnetic Resonance in Medicine, 53(6), 1432-1440.
 
-#### NODDI
+#### NODDI (Neurite Orientation Dispersion and Density Imaging) 
 Zhang, H., Schneider, T., Wheeler-Kingshott, C. A., & Alexander, D. C. (2012). NODDI: practical in vivo neurite orientation dispersion and density imaging of the human brain. Neuroimage, 61(4), 1000-1016.
 
 #### Ball-stick
