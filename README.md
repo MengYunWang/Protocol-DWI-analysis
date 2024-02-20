@@ -49,8 +49,6 @@ Tournier, J. D., Mori, S., & Leemans, A. (2011). Diffusion tensor imaging and be
 #### DSI (Diffusion Spectrum Imaging)
 Wedeen, V. J., Hagmann, P., Tseng, W. Y. I., Reese, T. G., & Weisskoff, R. M. (2005). Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. Magnetic resonance in medicine, 54(6), 1377-1386.
 
-
-
 #### QBI (Q-Ball Imaging)
 Tuch, D. S. (2004). Q‐ball imaging. Magnetic Resonance in Medicine, 52(6), 1358-1372.
 
@@ -68,11 +66,11 @@ Basser, P. J., & Pierpaoli, C. (1996). Microstructural and physiological feature
 
 Basser, P. J., Mattiello, J., & LeBihan, D. (1994). MR diffusion tensor spectroscopy and imaging. Biophysical journal, 66(1), 259-267.
 
-#### NODDI
-Zhang, H., Schneider, T., Wheeler-Kingshott, C. A., & Alexander, D. C. (2012). NODDI: practical in vivo neurite orientation dispersion and density imaging of the human brain. Neuroimage, 61(4), 1000-1016.
-
 #### DKI (Diffusion Kurtosis Imaging)
 Jensen, J. H., Helpern, J. A., Ramani, A., Lu, H., & Kaczynski, K. (2005). Diffusional kurtosis imaging: the quantification of non‐gaussian water diffusion by means of magnetic resonance imaging. Magnetic Resonance in Medicine, 53(6), 1432-1440.
+
+#### NODDI
+Zhang, H., Schneider, T., Wheeler-Kingshott, C. A., & Alexander, D. C. (2012). NODDI: practical in vivo neurite orientation dispersion and density imaging of the human brain. Neuroimage, 61(4), 1000-1016.
 
 #### Ball-stick
 Behrens, T. E., Woolrich, M. W., Jenkinson, M., Johansen‐Berg, H., Nunes, R. G., Clare, S., ... & Smith, S. M. (2003). Characterization and propagation of uncertainty in diffusion‐weighted MR imaging. Magnetic Resonance in Medicine, 50(5), 1077-1088.
