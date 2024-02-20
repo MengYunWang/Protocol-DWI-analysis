@@ -39,6 +39,8 @@ is a measure of neurite orientation dispersion. 0 means more coherent with no di
 
 is a measure of neurite density. 0 means no neurite while 1 means dense neurite. The white matter should have ***larger*** values than the grey matter.
 
+**ISOtropic Volume Fraction (ISOVF)**
+
 ### (2) Models
 
 Tournier, J. D., Mori, S., & Leemans, A. (2011). Diffusion tensor imaging and beyond. Magnetic resonance in medicine, 65(6), 1532.
